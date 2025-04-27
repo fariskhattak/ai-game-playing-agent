@@ -1,6 +1,5 @@
 import tkinter as tk
 from tkinter import messagebox
-import copy
 
 ROWS = 6
 COLS = 7
